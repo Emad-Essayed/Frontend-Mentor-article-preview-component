@@ -8,7 +8,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [https://github.com/Emad-Essayed/Frontend-Mentor-article-preview-component]https://github.com/Emad-Essayed/Frontend-Mentor-article-preview-component)
+- Solution URL: [https://github.com/Emad-Essayed/Frontend-Mentor-article-preview-component](https://github.com/Emad-Essayed/Frontend-Mentor-article-preview-component)
 - Live Site URL: [https://emad-essayed.github.io/Frontend-Mentor-article-preview-component/](https://emad-essayed.github.io/Frontend-Mentor-article-preview-component/)
 
 ### Built with
